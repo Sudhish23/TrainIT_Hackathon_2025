@@ -23,7 +23,7 @@ scikit-learn → Machine learning
 
 Gradio → Model deployment
 
-Model Implemented: Random Forest Regressor
+Model Implemented: XGBoost
 
 📈 Model Performance
 RMSE: 5,448,071.57
